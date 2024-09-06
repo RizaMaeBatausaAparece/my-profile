@@ -1,0 +1,16 @@
+{
+  "techs_1": [
+    { "name": "JavaScript", "rate": "50" },
+    { "name": "ReactJS", "rate": "45" },
+    { "name": "NodeJS", "rate": "40" },
+    { "name": "HTML5", "rate": "65" },
+    { "name": "CSS3", "rate": "40" }
+   
+  ],
+  "techs_2": [
+    { "name": "FlutLab", "rate": "80" },
+    { "name": "Information Management", "rate": "50" },
+    { "name": "DomainCourse 1", "rate": "50" },
+    { "name": "DomainCourse 6", "rate": "50" }
+  ]
+}

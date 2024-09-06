@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "30 Dec 2003" },
+    {
+      "website": "<a target='blank' href='https://soloist.ai/rizasmilktea'>https://soloist.ai/rizasmilktea</a>"
+    },
+    { "phone": "+63 946-254-1352" },
+    { "address": "Tinangnan, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 20 },
+    { "degree": "B.S. Information Technology" },
+    { "email":  "<a href='mailto:rizamaebatausaparece@example.com'>rizamaebatausaaparece@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Tinangnan, Tubigon, Bohol, Philippines",
+    "+63 946-254-1352",
+    "<a href='mailto:lang@example.com'>rizamaebatausaaparece@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2021 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2008 - 2015",
+      "school": "Tinangnan Elementary School",
+      "address": "Tinangnan, Tubigon, Bohol"
+    }
+  ]
+}

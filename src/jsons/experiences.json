@@ -1,0 +1,50 @@
+{
+  "companies": [
+    {
+      "company": "Mater Dei College",
+      "title": "IT Student Intern",
+      "duration": "August 2024 - Present",
+      "tasks": [
+        "Assisted in developing and maintaining web applications as part of an internship program.",
+        "Collaborated with senior developers to implement new features and resolve bugs in existing projects.",
+        "Participated in code reviews and contributed to the improvement of code quality and application performance.",
+        "Gained hands-on experience with front-end and back-end technologies including HTML, CSS, JavaScript, and PHP.",
+        "Worked with databases to retrieve and manage data effectively in web applications.",
+        "Engaged in team meetings to discuss project progress, challenges, and learning experiences."
+      ]
+    },
+    {
+      "company": "BS Information Technology Program",
+      "title": "Capstone Project Member",
+      "duration": "June 2024 - Present",
+      "tasks": [
+        "Contributed to the development of a web-based Barangay Information and Management System for Barangay Bosongon.",
+        "Collaborated with team members to design, develop, and test the application using Laravel, MySQL, and Bootstrap.",
+        "Assisted in gathering requirements from stakeholders and implementing solutions to meet project objectives.",
+        "Participated in regular meetings to discuss project progress and address any technical challenges.",
+        "Focused on improving the efficiency, transparency, and accessibility of barangay services through the digital platform."
+      ]
+    },
+    {
+      "company": "DICT Program",
+      "title": "Participant",
+      "duration": "April 2024",
+      "tasks": [
+        "Attended the DICT seminar held at HNU Tagbilaran.",
+        "Gained insights into the latest developments and trends in information and communications technology.",
+        "Networked with industry professionals and other participants to exchange knowledge and experiences."
+      ]
+    },
+    {
+      "company": "Mater Dei College",
+      "title": "CAST Department Auditor",
+      "duration": "2021 - 2023",
+      "tasks": [
+        "Served as the Auditor for the CAST Department, managing financial records and audits.",
+        "Participated in the development and implementation of financial policies and procedures.",
+        "Collaborated with department leaders to ensure accurate and transparent financial reporting."
+      ]
+    }
+  ]
+}
+ 
